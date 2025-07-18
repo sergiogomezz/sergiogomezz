@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧠 About Me:
 I’m Sergio, an AI & ML Engineer with a solid academic foundation and practical experience in building intelligent, scalable systems.<br><br>📚 My academic journey:<br>	•	MSc in Artificial Intelligence<br>	•	BSc in Computer Engineering<br>	•	BSc in Business Administration & Management<br><br>📂 I’ve worked on applied AI challenges in both industry and research — from designing cloud-native machine learning pipelines to building dynamic multi-agent architectures powered by large language models (LLMs). My key areas of interest include:<br>	•	Multi-Agent Systems<br>	•	Generative AI<br>	•	Natural Language Processing<br>	•	Computer Vision<br><br>I’m a firm believer in continuous learning and always eager to explore new technologies, challenge assumptions, and push boundaries.
 
 
