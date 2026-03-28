@@ -1,9 +1,22 @@
-# 🧠 About Me:
-I’m Sergio, an AI & ML Engineer with a solid academic foundation and practical experience in building intelligent, scalable systems.<br><br>📚 My academic journey:<br>	•	MSc in Artificial Intelligence<br>	•	BSc in Computer Engineering<br>	•	BSc in Business Administration & Management<br><br>📂 I’ve worked on applied AI challenges in both industry and research — from designing cloud-native machine learning pipelines to building dynamic multi-agent architectures powered by large language models (LLMs). I also have hands-on experience on complex **Retrieval-Augmented Generation (RAG)** applications. My key areas of interest include:<br>	•	Multi-Agent Systems<br>	•	Generative AI<br>	•	Natural Language Processing<br>	•	Computer Vision<br><br>I’m a firm believer in continuous learning and always eager to explore new technologies, challenge assumptions, and push boundaries.
+# Hi, I'm Sergio 👋
 
+AI/ML Engineer based in Spain. I build production AI systems, large-scale data pipelines,
+multi-agent architectures (LangGraph), or RAG applications. Currently at Accenture;
+previously did ML research at Ikerlan.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-gomez10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergio.gomez.martin10@gmail.com) 
+MSc in AI · BSc in Computer Engineering · BSc in Business Administration
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-gomez10)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergio.gomez.martin10@gmail.com)
