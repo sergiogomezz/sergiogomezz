@@ -1,6 +1,6 @@
 # Hi, I'm Sergio 👋
 
-AI/ML Engineer based in Spain. I build production AI systems — large-scale data pipelines,
+AI/ML Software Engineer based in Spain. I build production AI systems — large-scale data pipelines,
 multi-agent architectures (LangGraph) or RAG applications. I care about understanding
 what's under the hood in AI, not just plugging things together. Currently at Accenture;
 previously did ML research at Ikerlan.
