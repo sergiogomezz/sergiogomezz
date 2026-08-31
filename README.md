@@ -19,5 +19,6 @@ MSc in AI · BSc in Computer Engineering · BSc in Business Administration
 
 ## 📬 Contact
 
+[![Website](https://img.shields.io/badge/Website-sergiogomezmartin.com-black)](https://sergiogomezmartin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-gomez10)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergio.gomez.martin10@gmail.com)
